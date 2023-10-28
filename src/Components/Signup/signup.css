@@ -1,0 +1,28 @@
+#btn1{
+    background:gray;
+    border: none;
+}
+#btn2{
+background: gray;
+border: none;
+}
+
+#head{
+    color: black;
+}
+#email {
+    color: black;
+}
+#first {
+    color: black;
+}
+#last {
+    color: black;
+}
+#password {
+    color: black;
+}
+
+.bg-g {
+    background: linear-gradient(to left, #42275a, #734b6d);
+  }

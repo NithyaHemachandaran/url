@@ -1,0 +1,24 @@
+#login{
+ background: gray;
+border: none;
+}
+#head{
+color: black;
+}
+
+#label1{
+color: black;
+}
+#label2{
+color: black;
+}
+
+#signup{
+    background: gray;
+    border: none;
+}
+
+.bg-g {
+    background: linear-gradient(to left, #42275a, #734b6d);
+    margin-top: 30rem;
+  }
